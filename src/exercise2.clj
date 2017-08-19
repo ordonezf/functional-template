@@ -4,4 +4,4 @@
     "filter numbers lower than 5"
     [coll]
     (filter (fn [x] (< 5 x)) coll)
-    )
+)
